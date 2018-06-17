@@ -1,4 +1,7 @@
-Windows;MS;SS;MS+SS;MS+CC+SS
-10;0.3;0.37;0.38;0.39
-100;0.57;0.68;0.67;0.69
-1000;0.85;0.86;0.89;0.9
+Windows;Version;MS;SS;MS+SS;MS+CC+SS
+10;Original;0.31;0.35;0.38;0.41
+10;Reproduction;0.3;0.37;0.38;0.39
+100;Original;0.60;0.68;0.68;0.71
+100;Reproduction;0.57;0.68;0.67;0.69
+1000;Original;0.87;0.88;0.91;0.91
+1000;Reproduction;0.85;0.86;0.89;0.9
